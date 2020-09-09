@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b3fb1bf2-931c-444d-9246-b5603507a6ed/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ashokkuikel-portfolio-react-1",
+    "appService.deploySubpath": "build"
+}
